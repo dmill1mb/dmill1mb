@@ -54,7 +54,8 @@ Deployed Nessus on an Azure Ubuntu Server VM, discovered CVE-2013-3900, and reme
 
 ## 📫 Let's Connect
 
-📄 **Resume:** (https://github.com/user-attachments/files/31581154/Demarcus.Miller.Resume.1.pdf)
+📄 **Resume:** (https://github.com/user-attachments/files/31583126/Demarcus.Miller.Resume.1.pdf)
+
 
 💼 **LinkedIn:** www.linkedin.com/in/miller-demarcus
 📱 **Phone:** (501) 502-3477
