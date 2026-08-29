@@ -1,6 +1,7 @@
 
 
-## System Admin
+## Demarcus Miller                        | System Admin |
+
 
 I'm a person who believes infrastructure work only matters if someone else can understand it. My focus is building practical, real-world Azure environments — then documenting them in a way that speaks to engineers *and* the business stakeholders who need to know why it matters.
 
