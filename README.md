@@ -20,35 +20,35 @@ Below is a five-part portfolio built end-to-end in Azure, covering the core pill
 ### 🔐 Lab 1 — Active Directory Deployment
 Stood up a Windows Server 2025 domain controller in Azure, configured Group Policy Objects, and joined client machines to the domain — establishing the identity foundation the rest of this portfolio builds on.
 
-**🔗 [View Repository →](#)**https://github.com/dmill1mb/Lab-1-Active-Directory
+🔗 [View Repository →](#)**https://github.com/dmill1mb/Lab-1-Active-Directory**
 
 ---
 
 ### 📡 Lab 2 — Network Traffic Analysis with Wireshark
 Captured and decoded live traffic to break down DNS resolution, TCP handshakes, and the difference between HTTP and HTTPS at the packet level — turning raw captures into a plain-language explanation of what's actually happening on the wire.
 
-**🔗 [View Repository →](#)**https://github.com/dmill1mb/Lab-2-WireShark-Network-analysis
+🔗 [View Repository →](#)**https://github.com/dmill1mb/Lab-2-WireShark-Network-analysis**
 
 ---
 
 ### 📊 Lab 3 — SIEM Implementation with Splunk
 Forwarded Windows event logs to a Linux-based Splunk Enterprise instance, simulated real security events (account lockouts, failed logins), and built custom dashboards and alerts to surface them in real time.
 
-**🔗 [View Repository →](#)**https://github.com/dmill1mb/Lab-3-Splunk
+🔗 [View Repository →](#)**https://github.com/dmill1mb/Lab-3-Splunk**
 
 ---
 
 ### 🎫 Lab 4 — ITSM Workflow with ServiceNow
 Managed the full incident lifecycle in a ServiceNow Personal Developer Instance — service catalog requests, change management, and reporting dashboards — modeling how IT operations run day to day.
 
-**🔗 [View Repository →](#)**https://github.com/dmill1mb/Lab-4-ServiceNow
+🔗 [View Repository →](#)**https://github.com/dmill1mb/Lab-4-ServiceNow**
 
 ---
 
 ### 🛡️ Lab 5 — Vulnerability Management with Nessus
 Deployed Nessus on an Azure Ubuntu Server VM, discovered CVE-2013-3900, and remediated it via a PowerShell registry fix across both the 64-bit and WOW64 paths — closing the loop from scan to fix.
 
-**🔗 [View Repository →](#)**https://github.com/dmill1mb/Lab-5-Nessus-Vulnerability-Scanning
+🔗 [View Repository →](#)**https://github.com/dmill1mb/Lab-5-Nessus-Vulnerability-Scanning**
 
 ---
 
